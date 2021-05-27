@@ -1,0 +1,42 @@
+2021-05-27 13:10:18,608 INFO  [Log] Sayfa açıldı. PASSED 
+2021-05-27 13:10:20,654 ERROR [Log] checkLogin() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#L\-UserNameField"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'merts-MacBook-Pro.local', ip: 'fe80:0:0:0:18cc:cb03:9e2a:a07c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /var/folders/bt/8dqq762d3yd...}, goog:chromeOptions: {debuggerAddress: localhost:61768}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9eb9600170ae4df02257b8f92e1e331c
+*** Element info: {Using=id, value=L-UserNameField} 
+2021-05-27 13:10:20,741 INFO  [Log] controlCardAndPage() PASSED 
+2021-05-27 13:10:20,743 INFO  [Log] isCardEmpty() PASSED 
+2021-05-27 13:10:20,783 INFO  [Log] controlByIncreasing() PASSED 
+2021-05-27 13:10:20,803 INFO  [Log] pagingControl() PASSED 
+2021-05-27 13:18:45,951 ERROR [Log] checkLogin() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#L\-UserNameField"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'merts-MacBook-Pro.local', ip: 'fe80:0:0:0:18cc:cb03:9e2a:a07c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /var/folders/bt/8dqq762d3yd...}, goog:chromeOptions: {debuggerAddress: localhost:63950}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f232d3d230fa455566574c8558a056db
+*** Element info: {Using=id, value=L-UserNameField} 
+2021-05-27 13:20:26,254 INFO  [Log] checkLogin() PASSED 
+2021-05-27 13:25:42,582 ERROR [Log] checkLogin() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"egoSnI"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'merts-MacBook-Pro.local', ip: 'fe80:0:0:0:18cc:cb03:9e2a:a07c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /var/folders/bt/8dqq762d3yd...}, goog:chromeOptions: {debuggerAddress: localhost:49429}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6a36d227a0a7c0736b951d3a5d08dc1
+*** Element info: {Using=css selector, value=egoSnI} 
+2021-05-27 13:36:54,339 ERROR [Log] checkLogin() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"gekhq4-4 egoSnI"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'merts-MacBook-Pro.local', ip: 'fe80:0:0:0:18cc:cb03:9e2a:a07c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /var/folders/bt/8dqq762d3yd...}, goog:chromeOptions: {debuggerAddress: localhost:52298}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fe9af9136ee90ca8bba85aac2ff1c87a
+*** Element info: {Using=css selector, value=gekhq4-4 egoSnI} 
